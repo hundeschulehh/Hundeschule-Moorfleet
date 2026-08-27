@@ -315,6 +315,17 @@ section { padding: 64px 0; }
   border-radius: var(--radius-m);
   padding: 26px 28px;
 }
+.testimonial-stars {
+  display: flex;
+  gap: 3px;
+  margin-bottom: 12px;
+  color: #f2a93b;
+}
+.testimonial-stars svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
 .testimonial p.quote {
   font-size: 1.02rem;
   color: var(--color-text);
