@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hundeschule-moorfleet.de/sitemap.xml
